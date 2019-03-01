@@ -1,0 +1,3 @@
+C:/Users/OEremita/Desktop/CG/P/ficha11/build/CMakeFiles/class11.dir
+C:/Users/OEremita/Desktop/CG/P/ficha11/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/OEremita/Desktop/CG/P/ficha11/build/CMakeFiles/ZERO_CHECK.dir

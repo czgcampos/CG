@@ -1,0 +1,3 @@
+C:/Users/OEremita/Desktop/CG/TP/Fase1/build/CMakeFiles/Fase1.dir
+C:/Users/OEremita/Desktop/CG/TP/Fase1/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/OEremita/Desktop/CG/TP/Fase1/build/CMakeFiles/ZERO_CHECK.dir

@@ -1,0 +1,3 @@
+﻿  catmull-rom.cpp
+C:\Users\OEremita\Desktop\CG\P\ficha8\catmull-rom.cpp(113): warning C4101: 'res': variável local não referenciada
+  class8.vcxproj -> C:\Users\OEremita\Desktop\CG\P\ficha8\build\Release\class8.exe
